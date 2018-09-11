@@ -20,5 +20,7 @@ function sayHiToGrandma(string){
     return "I can't hear you!"
   }
   
-  else if(sting )
+  else if(string === "HELLO"){
+    return ""
+  }
 }
