@@ -21,6 +21,8 @@ function sayHiToGrandma(string){
   }
   
   else if(string === "HELLO"){
-    return ""
+    return "YES INDEED"
   }
+  
+  else if()
 }
